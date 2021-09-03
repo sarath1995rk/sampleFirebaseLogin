@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913316301575",
+    "project_id": "loginexample-6a043",
+    "storage_bucket": "loginexample-6a043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913316301575:android:7b60a713324e87273a53a2",
+        "android_client_info": {
+          "package_name": "com.example.sreedwish_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913316301575-luh9dgu732a2krdq4lbo4f9ut34ki745.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sreedwish_login",
+            "certificate_hash": "d94f5579d828777809b8dd6548ff4e77257f3dcd"
+          }
+        },
+        {
+          "client_id": "913316301575-phgn6go0jm4jce1b4a3b23bgpc2qhaci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbVEm2eCfhKaxi44NnIFqZrI1jgAf0p7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913316301575-phgn6go0jm4jce1b4a3b23bgpc2qhaci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
